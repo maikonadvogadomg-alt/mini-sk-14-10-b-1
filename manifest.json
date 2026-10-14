@@ -1,12 +1,12 @@
 {
-  "id": "./app-mini-sk",
-  "name": "Mini SK",
-  "short_name": "Mini SK",
+  "id": "./app-minisk1410b1",
+  "name": "minisk1410b1",
+  "short_name": "minisk1410b1",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0f1420",
-  "theme_color": "#0f1420",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
   "lang": "pt-BR",
   "icons": [
     {
